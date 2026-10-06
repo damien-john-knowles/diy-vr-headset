@@ -1,0 +1,26 @@
+# Build output
+build/
+dist/
+out/
+*.o
+*.elf
+*.bin
+*.uf2
+.pio/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# CAD backups
+*.FCStd1
+*.bak
+*-backups/
+*.kicad_prl
+fp-info-cache
+
+# Python
+__pycache__/
+.venv/
